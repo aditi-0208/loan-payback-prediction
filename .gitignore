@@ -1,0 +1,20 @@
+# Data and outputs
+data/
+*.csv
+*.zip
+
+# Secrets
+kaggle.json
+.env
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
